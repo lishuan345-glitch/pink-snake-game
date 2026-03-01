@@ -2,6 +2,14 @@
 
 一个可爱的粉红色风格贪吃蛇网页小游戏，带有动听的电子音乐背景。
 
+## 🎮 在线演示
+
+**立即开始游戏**: https://lishuan345-glitch.github.io/pink-snake-game/
+
+## 📦 GitHub 仓库
+
+**项目地址**: https://github.com/lishuan345-glitch/pink-snake-game
+
 ## 游戏特色
 
 ### 🎨 视觉设计
